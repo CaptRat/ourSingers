@@ -7,6 +7,8 @@ The purpose of this project is to practice how to work as a team in a project us
 
 Each programmer will add a new ".html" file with the singer that he/she recommends.  In your file, the first element will be a link or button with a hyperlink that will go back to the index.html file. 
 
+Images: All your images will be in the IMG folder, do not create new folders, this is part of learning to play together, so watch out for the names of your files, do not overwrite other files in the folder, if you want to create a subfolder inside of the IMG that is fine. 
+
 index.html: you will have to add a button with its name in this file, and nothing else. 
 
 style.css:  you will have to add your CSS code to the "style.css" file that is already in the project, do not create new CSS files, make sure that you do not use a class name or ID that someone already uses, here is where we learn to code as a team. 
