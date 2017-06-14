@@ -1,0 +1,71 @@
+/*---------------------------------------------------------------------*/
+          /*CSS for index.html*/
+/*---------------------------------------------------------------------*/
+body{
+    background-color: black;
+    padding: 25px 50px;
+    text-align: center;
+}
+
+.clear{
+    background-color: rgba(254, 254, 254, 0.8);
+    border: 2px solid white;
+}
+
+.front-page{
+    background-color: rgb(155, 200, 246);
+    text-align: center;
+    padding: 30px 50px;
+}
+
+.top{
+    margin-bottom: 25px;
+}
+
+.links-holder{
+    display: block;
+    margin: 0px auto;
+    width: 400px;
+    padding: 15px 100px;
+
+}
+
+.a-button{
+    display: block;
+    background-color: rgb(120, 182, 238);
+    margin: 0 0 10px 0;
+    padding: 7px;
+    text-align: center;
+
+    text-decoration: none;
+    color: black;
+    font-family: impact;
+    border: 1px solid rgb(0, 117, 255);
+}
+.a-button:hover{
+    background-color: rgb(53, 131, 235);
+}
+
+          /*---------------------------------*/
+.bar{
+    width: 50vw;
+    height: 8px;
+    background-color: black;
+}
+
+.frame{
+    border: 5px solid black;
+}
+
+/*---------------------------------------------------------------------*/
+          /*CSS for 01-edmundo.html*/
+/*---------------------------------------------------------------------*/
+
+.hamasaki{
+    margin-top: 25px;
+}
+
+
+/*---------------------------------------------------------------------*/
+          /*CSS for 02-tito.html*/
+/*---------------------------------------------------------------------*/
