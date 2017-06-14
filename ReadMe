@@ -5,13 +5,15 @@ On this project, we will create a simple website about singers.
 
 The purpose of this project is to practice how to work as a team in a project using GitHub, for that reason this project is super basic only HTML & CSS, each programmer will go the GitHub repository and "FORK IT" 
 
-Each programmer will add a new ".html" file with the singer that he/she recommends.
+Each programmer will add a new ".html" file with the singer that he/she recommends.  In your file, the first element will be a link or button with a hyperlink that will go back to the index.html file. 
 
 index.html: you will have to add a button with its name in this file, and nothing else. 
 
 style.css:  you will have to add your CSS code to the "style.css" file that is already in the project, do not create new CSS files, make sure that you do not use a class name or ID that someone already uses, here is where we learn to code as a team. 
 
 after your page is ready, submit the changes to the Administrator (in this project is me), with a "PULL REQUEST" then I will merge your contribution to the main project and  I will update the "LIVE Page" so you can see your code on a real team project. 
+
+here is the link for the Live Page:   http://oursingers.mycode.website/index.html
 
 if you have any questions you can email me: zerphyr.r@gmail.com
 Edmundo Rubio.
