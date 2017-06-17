@@ -12,6 +12,10 @@ body{
     border: 2px solid white;
 }
 
+.dire{
+  background-image: url("IMG/DireStraitsAlbum.jpg")
+}
+
 .front-page{
     background-color: rgb(155, 200, 246);
     text-align: center;
@@ -35,6 +39,7 @@ body{
     background-color: rgb(120, 182, 238);
     margin: 0 0 10px 0;
     padding: 7px;
+    border-radius: 5px;
     text-align: center;
 
     text-decoration: none;
